@@ -1,6 +1,3 @@
-# Minecraft-Server
-Como criar um servidor de minecraft com IP público e DNS
-
 # 🛠️ Como Usar um Domínio Grátis .eu.org com Cloudflare para seu Servidor de Minecraft
 
 Esse guia te ensina a configurar um domínio personalizado grátis (ex: `mc.seudominio.eu.org`) para seu servidor de Minecraft, usando o serviço gratuito do [eu.org](https://nic.eu.org) junto com o [Cloudflare](https://cloudflare.com). Tudo 100% gratuito, com suporte a conexão via domínio sem precisar usar porta!
